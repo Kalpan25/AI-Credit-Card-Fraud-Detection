@@ -100,7 +100,7 @@ python main.py
 - Basic class distribution visualization
 - Model training and results display
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Python 3.8+**: Core programming language
 - **Scikit-learn**: Machine learning algorithms (including MLPClassifier)
@@ -134,18 +134,6 @@ python main.py
 ### Cloud Deployment
 - **Streamlit Cloud**: Easy deployment of Streamlit apps
 - **Heroku**: Containerized application deployment
-
-##  Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## � Acknowledgments
 
