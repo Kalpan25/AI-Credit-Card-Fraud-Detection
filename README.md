@@ -8,17 +8,17 @@
 
 > A machine learning project for detecting fraudulent credit card transactions using multiple algorithms and a simple web interface.
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project demonstrates a basic machine learning pipeline for credit card fraud detection, showcasing skills in data preprocessing, model training, and simple web application development. The solution handles class imbalance and provides a user-friendly interface for model selection and prediction.
 
 ### Key Features
-- 🤖 **Multiple ML Models**: Logistic Regression, Random Forest, XGBoost, Neural Networks (MLPClassifier)
-- ⚖️ **Class Imbalance Handling**: Basic preprocessing with StandardScaler
-- 🌐 **Simple Web Interface**: Streamlit application for model selection
-- 📊 **Basic Model Evaluation**: Classification reports and accuracy metrics
+-  **Multiple ML Models**: Logistic Regression, Random Forest, XGBoost, Neural Networks (MLPClassifier)
+-  **Class Imbalance Handling**: Basic preprocessing with StandardScaler
+-  **Simple Web Interface**: Streamlit application for model selection
+- � **Basic Model Evaluation**: Classification reports and accuracy metrics
 
-## 📊 Dataset Information
+##  Dataset Information
 
 - **Source**: [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - **Size**: 284,807 transactions
@@ -26,7 +26,7 @@ This project demonstrates a basic machine learning pipeline for credit card frau
 - **Target**: Binary classification (Fraud: 0.17%, Normal: 99.83%)
 - **Challenge**: Highly imbalanced dataset
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 AI Credit card Project/
@@ -44,7 +44,7 @@ AI Credit card Project/
 └── requirrments.txt              # Python dependencies
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone the Repository
 ```bash
@@ -73,7 +73,7 @@ streamlit run app.py
 python main.py
 ```
 
-## 🔬 Methodology
+##  Methodology
 
 ### Data Preprocessing
 - **Feature Scaling**: StandardScaler for Time and Amount features
@@ -92,7 +92,7 @@ python main.py
 - **Classification Report**: Precision, recall, f1-score
 - **Basic Accuracy**: Simple accuracy metrics
 
-## 🌐 Web Application
+##  Web Application
 
 ### Streamlit Dashboard
 - Model selection interface
@@ -100,7 +100,7 @@ python main.py
 - Basic class distribution visualization
 - Model training and results display
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
 - **Python 3.8+**: Core programming language
 - **Scikit-learn**: Machine learning algorithms (including MLPClassifier)
@@ -110,7 +110,7 @@ python main.py
 - **Matplotlib/Seaborn**: Basic data visualization
 - **Imbalanced-learn**: Basic preprocessing
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates proficiency in:
 - **Machine Learning Basics**: Training multiple ML models
@@ -120,7 +120,7 @@ This project demonstrates proficiency in:
 - **Version Control**: Git best practices
 - **Documentation**: Project presentation
 
-## 🚀 Deployment Options
+##  Deployment Options
 
 ### Local Deployment
 ```bash
@@ -135,7 +135,7 @@ python main.py
 - **Streamlit Cloud**: Easy deployment of Streamlit apps
 - **Heroku**: Containerized application deployment
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -147,13 +147,13 @@ python main.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## � Acknowledgments
 
 - Dataset provided by [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - Inspired by real-world fraud detection challenges
 - Built for educational and portfolio purposes
 
-## 📞 Contact
+##  Contact
 
 - **GitHub**: https://github.com/Kalpan25
 - **LinkedIn**: [Kalpan Patel](https://www.linkedin.com/in/kalpanpatel30/)
